@@ -9,4 +9,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
   ## 💻 Projeto
 
-Você pode visualizar o projeto através [DESSE LINK](https://vercel.com/jvguedesfs-projects/fintech-jx2e).
+Você pode visualizar o projeto através [DESSE LINK](https://fintech-jx2e.vercel.app).
