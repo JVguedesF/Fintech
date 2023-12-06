@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.app {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.bem-vindo {
+    font-size: 20px;
+}
+
+.caixa {
+    padding: 10px 0;
+}
+
+.login {
+    padding: 7px 0;
+    background-color: #697FD1;
+    color: #ffffff;
+    max-width: 230px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.cor-tema-font {
+    color: #697FD1;
+    font-size: 13px;
+}
+
+.icons-size {
+    font-size: 34px;
+    color: #697FD1;
+}
+
+.castre-se {
+    color: #697FD1;
+    cursor: pointer;
+}
+
+.clickable-icons,
+.clickable-signup {
+    cursor: pointer;
+}
+
+.login:hover {
+    background-color: #879bdb;
+    color: white;
+}
+
+.login:active {
+    background-color: #879bdb;
+    color: white;
+}
